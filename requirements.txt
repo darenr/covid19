@@ -1,3 +1,6 @@
 nbformat
 pandas
 numpy
+hvplot
+bokeh
+pyviz_comms
