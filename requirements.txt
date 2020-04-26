@@ -1,6 +1,9 @@
+jupyter
 nbformat
+holoviews[recommended]
 pandas
 numpy
 hvplot
 bokeh
+plotly
 pyviz_comms
